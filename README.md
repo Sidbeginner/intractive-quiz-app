@@ -12,7 +12,7 @@ An elegant, responsive quiz app built with HTML, CSS, and JavaScript. This proje
 
 ## Preview
 
-![Quiz UI Screenshot](https://user-images.githubusercontent.com/your-screenshot-placeholder.png)  
+![Quiz UI Screenshot](output)  
 *(Replace with actual screenshot if available)*
 
 ## Quiz Topics
